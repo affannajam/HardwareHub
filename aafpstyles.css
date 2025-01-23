@@ -113,7 +113,7 @@ h2 {
 }
 
 .social-links a:focus {
-    outline: none; /* Remove focus outline */
+    outline: none;
 }
 
 	.footer {
